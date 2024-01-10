@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/dauinh/Desktop/lucene-9.9.1/modules/lucene-queryparser-9.9.1.jar",
+        "/Users/dauinh/Desktop/lucene-9.9.1/modules/lucene-demo-9.9.1.jar",
+        "/Users/dauinh/Desktop/lucene-9.9.1/modules/lucene-core-9.9.1.jar",
+        "/Users/dauinh/Desktop/lucene-9.9.1/modules/lucene-analysis-common-9.9.1.jar"
+    ]
+}
