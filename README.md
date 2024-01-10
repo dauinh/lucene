@@ -1,7 +1,6 @@
 # Lucene Sample Project
-
-### Lucene demo
 [Getting Started Doc](https://lucene.apache.org/core/9_9_0/index.html)
+### Lucene demo
 
 1. Download Apache Lucene compressed files (v9.9.1)
 2. Setting CLASSPATH
